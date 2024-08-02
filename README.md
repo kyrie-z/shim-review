@@ -63,7 +63,7 @@ well known in the Linux community.)
 *******************************************************************************
 - Name: Chenggang Li
 - Position: Developer
-- Email address: lichenggang@uniontech.com
+- Email address: lichenggang@deepin.org
 - PGP key fingerprint: 61AE69171770E71B39D842F1A757694FF3D0B626
 
 The file key/ChenggangLi.pub in this git repo
